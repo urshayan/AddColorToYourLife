@@ -6,19 +6,21 @@ A simple beginner-friendly introduction to pixels, color, and image formats.
 ## How To Run 
 
 Compile: 
-'
-  g++ colors.cpp -o color  
-'
+'''
+   g++ colors.cpp -o color  
+'''
 
 Run: 
-'
+'''
     ./color 
-'
+'''
+     
+
 
 This Will Generate:
-' 
+'''
  {output}.ppm
-'
+'''
 
 ## Viewing the image
 You can open .ppm files using: 
